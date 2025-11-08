@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"time"
+	//"time"
 )
 
 // TODO: Import actual packages once they're created
@@ -15,21 +15,21 @@ func main() {
 	fmt.Println("BB-Lock Warlock Simulator - Phase 1")
 	fmt.Println("=====================================")
 	fmt.Println()
-	
+
 	// Phase 1: Hardcoded test setup
 	// This will be replaced with YAML config in Phase 2
-	
+
 	fmt.Println("Initializing simulation...")
-	
+
 	// TODO: Create simulation request
 	// rsr := createTestSimRequest()
-	
+
 	// TODO: Run simulation
 	// result := core.RunSim(rsr, nil)
-	
+
 	// TODO: Print results
 	// printResults(result)
-	
+
 	// Placeholder for Phase 1
 	fmt.Println("✅ Simulator framework ready")
 	fmt.Println("⏳ Next: Implement Warlock spells")
